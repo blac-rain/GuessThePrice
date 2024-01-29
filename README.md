@@ -20,7 +20,7 @@ a small program do find the nearest guess of a price from a group of people with
     - different prompts or 1?
 - find nearest guess
 - new window: show list of guesses with how far away
-    - **save** places of all -->
+    - **save** places of all
     - place == points
     - least points == highest place
 - show next round
