@@ -28,9 +28,8 @@ a small program do find the nearest guess of a price from a group of people with
 
 # What Is Needed?
 - input windows
-    1. num of people
-    2. names of people
-    3. num of rounds
+    1. names of people
+    2. num of rounds
 - round ask windows
     1. price
     2. guesses --> show name with input field
@@ -45,3 +44,21 @@ a small program do find the nearest guess of a price from a group of people with
     - show list of all guesses
     - show winner
     - ask for end or new round
+
+## Variables
+- list of names --> **array**, **string**
+- num of rounds --> **integer**
+- price to guess --> **double**
+- guesses --> **array**, **double**
+- points --> **array**, **integer**
+
+# Future To Do
+- custom icons in the windows
+- add dialog when windows while playing are closed
+    - confirm closing
+    - show goodbye msg on confirm
+- show error when no name was entered
+- maybe show error when names have numbers
+- maybe convert all names 
+    - first letter capitalized
+    - complete lower case
