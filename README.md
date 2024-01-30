@@ -57,8 +57,9 @@ a small program do find the nearest guess of a price from a group of people with
 - add dialog when windows while playing are closed
     - confirm closing
     - show goodbye msg on confirm
-- show error when no name was entered
-- maybe show error when names have numbers
+- show error when no nothing is entered in all input windows
+- maybe show error when names are not letter
 - maybe convert all names 
     - first letter capitalized
     - complete lower case
+- make player guesses question 1 window not different for each guess
